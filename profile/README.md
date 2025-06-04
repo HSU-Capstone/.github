@@ -111,6 +111,7 @@ Unity로 제작되었으며, 플레이어는 미니게임을 통해 자연스럽
 ### 시연 영상 링크
 - 발표 영상 주소: https://youtu.be/bH1tXeaYUk8
 - 시연 영상 주소: https://youtu.be/--Muxnh8ahc
+<br><br>
   
 ## 개발 도구 및 환경
 | 구분 | 설명 |
